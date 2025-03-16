@@ -1,0 +1,107 @@
+DANILO MEDEIROS​
+Engenheiro de Software - QA | Especialista em Automação de Testes​
+📧 danilomedeiros100@gmail.com​
+📱 +55 81 9 9873-5860​
+🔗 linkedin.com/in/daniloamedeiros 
+ 
+RESUMO PROFISSIONAL 
+Profissional com +10 anos de experiência em Tecnologia da Informação, com foco em 
+Qualidade de Software e Automação de Testes. Expertise em projetos de grande porte nos 
+setores bancário, financeiro, telecomunicações e streaming. Destaque para a redução de 
+30% no tempo de execução de testes com automação, integração com AWS e CI/CD, e 
+conformidade com normas regulatórias (BACEN). 
+Mestre em Engenharia de Software pela CESAR School, graduado em Análise e 
+Desenvolvimento de Sistemas pela Unibratec. Certificado CTFL e CTFL-AT pelo ISTQB. 
+ 
+COMPETÊNCIAS TÉCNICAS 
+●​ Linguagens de Programação: Java, Python, JavaScript 
+●​ Automação de Testes: Selenium WebDriver, Appium, Cucumber, Sikuli, Rest 
+Assured, WebdriverIO, Robot Framework 
+●​ Integração Contínua (CI/CD): Jenkins, GitHub, GitLab, Docker 
+●​ Cloud Computing: AWS (EKS, EC2, Lambda), GCP 
+●​ Testes de Performance: JMeter 
+●​ Banco de Dados: SQL, NoSQL (MongoDB) 
+●​ Monitoramento: Grafana, Prometheus, Splunk, Datadog 
+●​ Ferramentas de Gestão: Jira, Redmine, ALM, HP ALM 
+ 
+EXPERIÊNCIA PROFISSIONAL 
+Banco Itaú Unibanco 
+Engenheiro de Software - QA​
+Jan 2023 – Presente 
+●​ Automatizei testes regressivos, reduzindo o tempo de execução de 2 dias para 
+apenas 4 horas. 
+●​ Desenvolvi testes automatizados E2E (API, Integração, DB e UI) para aplicações 
+mobile. 
+●​ Integrei automação de testes com ambientes AWS, otimizando fluxos de deploy. 
+●​ Implementei estratégias de testes regulatórios (BACEN). 
+●​ Realizei monitoramento contínuo em produção para prevenir falhas críticas. 
+
+●​ Atuação focada na automação de testes, aplicando experiência para assegurar 
+a qualidade superior dos softwares. 
+●​ Compromisso com a melhoria contínua dos processos de desenvolvimento, 
+utilizando ferramentas como GitHub e planejamento de testes meticuloso. 
+●​ Python, BDD, Splunk, Datadog, CI/CD, Appium, Mobile Center, Testes Mobile, 
+TestFlight, GitHub Actions, Agile. 
+Banco Inter S.A. 
+Engenheiro de Software - QA​
+Jun 2021 – Mai 2023 
+●​ Desenvolvi automação de testes mobile com JavaScript para o app Inter Cartões PJ. 
+●​ Automatizei testes E2E integrados a ambientes AWS. 
+●​ Conduzi treinamentos técnicos para novos colaboradores. 
+●​ Defini estratégias de testes e planos de ação. 
+●​ Destaque na liderança técnica em projetos de automação e na análise 
+criteriosa para desenvolvimento de soluções automatizadas. 
+●​ Foco na resolução de desafios técnicos complexos e na garantia de soluções 
+de software de alta qualidade, sempre buscando inovação e excelência. 
+●​ JavaScript, Robot Framework, BDD, WebdriverIO, TestFlight, CI/CD, Appium, 
+BrowserStack, GitLab, JIRA, Agile. 
+ZUP IT Innovation (Projeto Itaú) 
+Desenvolvedor de Testes Automatizados​
+Out 2020 – Jun 2021 
+●​ Implementação de testes automatizados com Java. 
+●​ Integração com pipelines CI/CD e ambientes AWS. 
+●​ Java, Cucumber, Rest Assured, Python, Requests, TestFlight, CI/CD, Appium, 
+BrowserStack, GitLab, JIRA, Agile. 
+SiDi (Instituto Samsung) 
+Desenvolvedor de Testes Automatizados​
+Jun 2020 – Dez 2020 
+●​ Desenvolvimento de testes com Python e automação de chatbot com IA. 
+●​ Participação em recrutamento técnico e definição de estratégias de testes. 
+●​ Python, BDD, SQL, GitLab, JIRA, CI/CD GitLab. 
+Globoplay / Elumini 
+Analista de Qualidade Sênior​
+Out 2019 – Jun 2020 
+●​ Automação de testes Web e Mobile (Python, Selenium, Behave, Appium). 
+●​ Testes funcionais em Smart TVs e plataformas de streaming. 
+
+●​ Python, BDD, Grafana, SQL, MongoDB, Testes Mobile, TestFlight, CI/CD, Appium, 
+BrowserStack, GitLab, JIRA, Agile, CXUITest. 
+Accenture 
+Analista de Testes Pleno​
+Set 2017 – Out 2019 
+●​ Automação de testes com Java e desenvolvimento de scripts. 
+●​ Planejamento de estratégias de testes para grandes clientes. 
+●​ Java, JavaScript, GitHub, Appium, Agile, JIRA, HP ALM. 
+CERS Cursos Online 
+Analista de Testes de Software​
+Jan 2013 – Out 2017 
+●​ Automação de testes com Selenium WebDriver. 
+●​ Elaboração de relatórios para suporte à decisão. 
+ 
+FORMAÇÃO ACADÊMICA 
+CESAR School​
+Mestrado Profissional em Engenharia de Software​
+2016 – 2018 
+Unibratec​
+Tecnologia em Análise e Desenvolvimento de Sistemas​
+2013 – 2015 
+ 
+CERTIFICAÇÕES 
+●​ CTFL - Certified Tester, Foundation Level - ISTQB 
+●​ CTFL-AT - Certified Tester, Foundation Level - Agile Tester - ISTQB 
+ 
+IDIOMAS 
+●​ Português: Nativo 
+●​ Inglês: Avançado 
+ 
+ 
