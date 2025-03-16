@@ -5,7 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
+# Ignorar a pasta de uploads (arquivos pessoais)
+uploads/
 
+# Ignorar a pasta txt_files (arquivos processados)
+txt_files/
+
+# Opcional: ignorar arquivos temporários e logs
+logs/
+*.log
 # Distribution / packaging
 .Python
 build/
