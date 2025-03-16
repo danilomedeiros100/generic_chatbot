@@ -5,15 +5,23 @@ __pycache__/
 
 # C extensions
 *.so
-# Ignorar a pasta de uploads (arquivos pessoais)
-uploads/
+# Ignorar arquivos de documentos e planilhas
+*.pdf
+*.doc
+*.docx
+*.txt
+*.csv
+*.xls
+*.xlsx
+*.ods
 
-# Ignorar a pasta txt_files (arquivos processados)
-txt_files/
+# Ignorar todos os arquivos dentro de uploads e txt_files, exceto o .gitkeep
+uploads/*
+txt_files/*
 
-# Opcional: ignorar arquivos temporários e logs
-logs/
-*.log
+# Permitir que as pastas vazias sejam versionadas
+!uploads/.gitkeep
+!txt_files/.gitkeep
 # Distribution / packaging
 .Python
 build/
